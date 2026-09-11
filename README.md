@@ -8,6 +8,7 @@ A journey of learning CS336 and doing it's labs
 * 有课程相关的优质homework和参考实现也可进入main
 * 有实现好的组件或者模块也可放入main
 * 有科研上的讨论性问题或者好的论文或者对论文的解读或者对就业的任何简介或者疑问或者对开源社区的优化思路都可放入main
+* 对agentic/llm/infra/课程本身有任何问题欢迎提issue或者放入main一起讨论
 * 有任何推荐的优质课程或者学习资源都可放入main或者提issue
 
 ## 2026 LEC资源
