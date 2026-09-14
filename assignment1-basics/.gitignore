@@ -1,0 +1,40 @@
+# Local editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python virtual environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.pyright/
+.ipynb_checkpoints/
+
+# Build and test reports
+/build/
+/dist/
+*.egg-info/
+.coverage
+.coverage.*
+/htmlcov/
+/coverage.xml
+
+# Downloaded datasets, tokenized data, and local experiment outputs
+/data/
+/checkpoints/
+/outputs/
+/runs/
+/logs/
+/wandb/
+
+# Local credentials and operating system metadata
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
